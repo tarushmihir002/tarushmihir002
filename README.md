@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarushmihir002
-- 👀 I’m interested in Web Development, competitive Coding and Ethical Hacking
-- 🌱 I’m currently learning Machine Learning and Cybersecurity
+- 👀 I’m interested in Web Development, competitive Coding and Machine Learning.
+- 🌱 I’m currently working on various tech stacks for Backend and Frontend Development.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 
 email: tarush_b200296ee@nitc.ac.in
