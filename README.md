@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 
 email: mihirtarush@gmail.com 
-Linkedin: https://www.linkedin.com/in/tarush-mihir-90047b19a/
+Linkedin: https://www.linkedin.com/in/tarushmihir/
 
 <!---
 tarushmihir002/tarushmihir002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
