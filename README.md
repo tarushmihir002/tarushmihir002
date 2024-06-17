@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on various tech stacks for Backend and Frontend Development.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me 
-email: tarush_b200296ee@nitc.ac.in
+email: mihirtarush@gmail.com 
 Linkedin: https://www.linkedin.com/in/tarush-mihir-90047b19a/
 
 <!---
